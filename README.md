@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Jashan Goyal**
 - Email: goyaljashan85@gmail.com
-- GitHub: [@gargpb31](https://github.com/JashanGoyal-85)
+- GitHub: [@JashanGoyal-85](https://github.com/JashanGoyal-85)
 - LinkedIn: [Jashan Goyal]([https://linkedin.com/in/gargpb31](https://www.linkedin.com/in/jashan-goyal-9946a9313?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 - Portfolio: [Portfolio](https://portfolio-sunny-gargs-projects.vercel.app/)
 
